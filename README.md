@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 
-I'm a Senior SDET and Test Automation Architect with **44 years of engineering experience** across Salesforce, Microsoft, Indeed, Finix, and Ooyala/Dalet — now specializing in **AI-augmented test automation** and **FHIR healthcare API testing**.
+I'm a Senior SDET and Test Automation Architect with **deep enterprise experience** across Salesforce, Microsoft, Indeed, Finix, and Ooyala/Dalet — now specializing in **AI-augmented test automation** and **FHIR healthcare API testing**.
 
 My focus is the intersection of two things most engineers know separately but rarely combine:
 - **Deep SDET fundamentals** — test architecture, CI/CD ownership, API validation, contract testing
@@ -132,7 +132,23 @@ A 2020 take-home project fully modernized to 2024 standards — demonstrating re
 - 🤖 **Dual-language AI framework** — Same architecture in Python and Java — signals polyglot depth, not just language familiarity
 - 🔥 **Spark Summit 2014** — Co-presented *"Testing Spark: Best Practices"* — 1,000-node elastic cluster testing at Ooyala
 - 💳 **TestRail at Finix** — Battle-tested payment infrastructure test reporting at a Series C fintech
-- 📈 **44 years** across Salesforce · Microsoft · Indeed · Finix · Ooyala/Dalet
+- 🏢 **Enterprise pedigree** across Salesforce · Microsoft · Indeed · Finix · Ooyala/Dalet
+
+---
+
+## 🌐 Industry Expertise
+
+Hands-on test automation and engineering experience across multiple regulated and high-scale industries:
+
+| Industry | Domain Experience |
+|----------|------------------|
+| 🏥 **Healthcare / HealthTech** | FHIR R4 API testing, HL7 standards, EHR integrations, US Core compliance, SMART on FHIR auth |
+| 💳 **Fintech / Payments** | Payment API validation, test reporting at Finix (Series C); loan origination API testing at Upgrade |
+| 🔍 **Job Search / HR Tech** | Large-scale search platform testing at Indeed — high-traffic consumer API validation |
+| ☁️ **Enterprise SaaS / CRM** | API and integration testing at Salesforce — multi-tenant platform scale |
+| 💻 **Big Tech / Productivity** | Test automation and quality engineering at Microsoft |
+| 🎬 **Media / Video Streaming** | 1,000-node Spark cluster testing at Ooyala/Dalet — large-scale distributed data pipeline validation |
+| 📊 **Data Engineering** | Pipeline validation, Spark, dbt, Snowflake/BigQuery — data quality at scale |
 
 ---
 
