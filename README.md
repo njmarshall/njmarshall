@@ -79,7 +79,23 @@ Parallel Java implementation of the TestRail integration — `@TestRailCase` ann
 
 ---
 
-### 🔄 [`upgrade`](https://github.com/njmarshall/upgrade) &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+### 📖 [`playbook`](https://github.com/njmarshall/playbook) &nbsp; ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) ![Made Public](https://img.shields.io/badge/Made_Public-May_2026-brightgreen?style=flat)
+
+**Personal technical playbook — 20 recipes across FHIR, AI/LLM, testing philosophy, and Python practice**
+
+A structured cookbook-style knowledge base built while actively developing AI test automation frameworks. Every recipe is self-contained, copy-paste ready, and grounded in real production experience.
+
+| Category | Recipes | What's Inside |
+|----------|---------|--------------|
+| 🐙 GitHub | 3 | CI/CD pipeline anatomy, secrets setup, git commands |
+| 🏥 FHIR | 5 | R4 fundamentals, resources, REST API, testing deep dive |
+| 💼 Career | 4 | SDET→AI engineer role, interview prep, test pyramid, contract testing |
+| 🤖 AI/LLM | 6 | LLM fundamentals, prompt engineering, Anthropic + OpenAI APIs, interview prep |
+| 🐍 Daily | 1 | Python of the Day — medium-level problems for SDET interviews |
+
+> *Built as a living reference — not a tutorial, not a blog. A personal engineering field guide.*
+
+--- &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **Modernized Java project — legacy to production-ready**
 
@@ -168,3 +184,5 @@ Hands-on test automation and engineering experience across multiple regulated an
 ---
 
 *Open to Senior SDET · AI Test Automation Engineer · Staff QA Engineer opportunities in the Bay Area and remote.*
+
+*Last updated: May 2026*
