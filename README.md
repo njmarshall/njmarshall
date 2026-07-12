@@ -98,7 +98,7 @@ A structured cookbook-style knowledge base built while actively developing AI te
 
 > *Built as a living reference — not a tutorial, not a blog. A personal engineering field guide.*
 
---- &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+### 🏦 [`upgrade`](https://github.com/njmarshall/upgrade) &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **Modernized Java project — legacy to production-ready**
 
