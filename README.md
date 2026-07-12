@@ -61,7 +61,7 @@ The Java counterpart — an enterprise-grade RestAssured + TestNG framework with
 
 ---
 
-### 🐍 [`python-testrail`](https://github.com/njmarshall/python-testrail) &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![CI](https://github.com/njmarshall/python-testrail/actions/workflows/ci.yml/badge.svg)
+### 🐍 [`python-testrail`](https://github.com/njmarshall/python-testrail) &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **TestRail integration for pytest — battle-tested at Finix**
 
