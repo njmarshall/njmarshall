@@ -178,14 +178,6 @@ Hands-on test automation and engineering experience across multiple regulated an
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=njmarshall&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njmarshall&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
 *Open to Senior SDET · AI Test Automation Engineer · Staff QA Engineer opportunities in the Bay Area and remote.*
 
 *Last updated: July 2026*
