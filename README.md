@@ -31,14 +31,17 @@ A production-grade Python framework targeting **FHIR R4 healthcare APIs** with t
 
 | Capability | Implementation |
 |-----------|---------------|
-| 🏥 FHIR R4 API Testing | Patient, Observation, Encounter — full CRUD + search |
-| 🤖 AI Test Generation | Anthropic SDK generates pytest tests from resource definitions |
+| 🏥 Multi-Domain Testing | Healthcare FHIR, Insurance, Fintech, PetStore — 86 tests passing |
+| 🤖 AI Test Generation | Anthropic SDK generates tests — 37 AI-generated across 3 domains |
 | 🔧 Self-Healing Detection | AST parsing detects test drift before CI failures |
 | 📊 Allure Reporting | Published to GitHub Pages on every push |
-| ⚙️ CI/CD | GitHub Actions + pytest-xdist parallel execution |
+| ⚙️ CI/CD | GitHub Actions — 7 parallel jobs, all green |
 | 🎨 Design Patterns | CRTP, Factory, Singleton, Facade, Fluent Interface, Template Method |
+| 🎭 Playwright UI | Browser automation across all 4 domains — 12 UI tests |
 
 > *Validates not just HTTP status codes, but clinical code systems (LOINC, SNOMED), resource references, and OperationOutcome structure — the layer most API test suites skip entirely.*
+
+> 📖 **Published:** [How I Built a 73-Test AI-Powered Test Framework Across 4 Domains Using Claude](https://www.linkedin.com/pulse/how-i-built-73-test-ai-powered-test-framework-across-4-neil-marshall-oefac/)
 
 ---
 
@@ -185,4 +188,4 @@ Hands-on test automation and engineering experience across multiple regulated an
 
 *Open to Senior SDET · AI Test Automation Engineer · Staff QA Engineer opportunities in the Bay Area and remote.*
 
-*Last updated: May 2026*
+*Last updated: July 2026*
