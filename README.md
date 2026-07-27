@@ -31,13 +31,14 @@ A production-grade Python framework targeting **FHIR R4 healthcare APIs** with t
 
 | Capability | Implementation |
 |-----------|---------------|
-| 🏥 Multi-Domain Testing | Healthcare FHIR, Insurance, Fintech, PetStore — 86 tests passing |
-| 🤖 AI Test Generation | Anthropic SDK generates tests — 37 AI-generated across 3 domains |
+| 🏥 Multi-Domain Testing | Healthcare FHIR, Insurance, Fintech, PetStore — 101 tests passing |
+| 🤖 AI Test Generation | Anthropic SDK generates tests — 37 AI-generated across 3 domains · DeepEval LLM evaluation |
 | 🔧 Self-Healing Detection | AST parsing detects test drift before CI failures |
 | 📊 Allure Reporting | Published to GitHub Pages on every push |
-| ⚙️ CI/CD | GitHub Actions — 7 parallel jobs, all green |
+| ⚙️ CI/CD | GitHub Actions — 11 parallel jobs, all green |
 | 🎨 Design Patterns | CRTP, Factory, Singleton, Facade, Fluent Interface, Template Method |
 | 🎭 Playwright UI | Browser automation across all 4 domains — 12 UI tests |
+| ⚡ Async Testing | AsyncPoller · EventSequencer — Finix/Indeed patterns · 3 domains |
 
 > *Validates not just HTTP status codes, but clinical code systems (LOINC, SNOMED), resource references, and OperationOutcome structure — the layer most API test suites skip entirely.*
 
